@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007425667992",
+    "project_id": "softnest-ecommerce",
+    "storage_bucket": "softnest-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007425667992:android:e920ee68d60b35ad9521ed",
+        "android_client_info": {
+          "package_name": "com.example.softnestecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcO9W5PRFuUt22XfZFW2T9TyBiAynASXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
